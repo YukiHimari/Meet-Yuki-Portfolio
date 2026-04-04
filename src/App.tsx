@@ -74,8 +74,8 @@ function App() {
                 LinkedIn
               </a>
             </li>
-                        <li>
-              <a href="https://www.linkedin.com/in/yuki-gunawardena/" target="_blank">
+            <li>
+              <a href="src/files/Yuki-Resume(Tech).pdf" download= "Yuki-Resume.pdf"target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
@@ -83,7 +83,7 @@ function App() {
                 >
                   <use href="/icons.svg#download-icon"></use>
                 </svg>
-                Resume
+                <button>Resume</button>
               </a>
             </li>
           </ul>
