@@ -1,4 +1,4 @@
-# Meet Yuki
+# 🪻Meet Yuki
 ## My personal portfolio that lists all information about me, my projects and experience
 
 ### Tech Stack
@@ -7,4 +7,7 @@
 - CSS and Typescript for styling
 - Logos & Images designed on Canva
 
-** STILL CURRENTLY UNDER WORKS PLEASE CHECK BACK SOON **
+**_STILL CURRENTLY UNDER WORKS PLEASE CHECK BACK SOON!!_**
+
+### Preview
+<img width="1905" height="972" alt="Screenshot 2026-04-05 004649" src="https://github.com/user-attachments/assets/071e433f-d770-4404-b71a-a214ea71b7ae" />
