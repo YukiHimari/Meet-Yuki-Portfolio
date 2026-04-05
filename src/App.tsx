@@ -92,6 +92,10 @@ function App() {
         </div>
       </section>
 
+      <footer className="footer">
+        <p>&copy; 2026 Yuki Gunawardena | All rights reserved.</p>
+      </footer>
+
     </>
   )
 }
