@@ -17,7 +17,7 @@ function App() {
               <a href="#about-me">About</a>
             </li>
             <li>
-              <a href="#docs">Projects</a>
+              <a href="#projects">Projects</a>
             </li>
             <li>
               <a href="#social">Skills</a>
@@ -91,6 +91,11 @@ function App() {
       </section>
         </div>
       </section>
+
+      <section id= "projects" className="projects">
+        <h2 className= "project-header" id="project-header">Projects</h2>
+        <p>Here are some of my projects:</p>
+      </section>  
 
       <footer className="footer">
         <p>&copy; 2026 Yuki Gunawardena | All rights reserved.</p>
