@@ -94,7 +94,35 @@ function App() {
 
       <section id= "projects" className="projects">
         <h2 className= "project-header" id="project-header">Projects</h2>
-        <p>Here are some of my projects:</p>
+          <section id ="project-carousel" className="project-carousel">
+            <div className="project-card">
+              <img src="/meet-yuki Logo.png" alt="Project 1" className="project-image" />
+              <h3>Project 1</h3>
+              <ul>
+                <li className="tags">
+                  web
+                </li>
+                <li className="tags">
+                  react
+                </li>            
+                </ul>
+            </div>
+            <div className="project-card">
+              <img src="src/assets/Banking-app.png" alt="Project 2" className="project-image" />
+              <h3>Project 2</h3> 
+              <ul>
+                <li className="tags">
+                  Machine learning
+                </li>
+                <li className="tags">
+                  CNN
+                </li>    
+                  <li className="tags">
+                  Python
+                </li>         
+                </ul>
+            </div>
+            </section>
       </section>  
 
       <footer className="footer">
